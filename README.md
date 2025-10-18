@@ -99,7 +99,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="627" height="457" alt="image" src="https://github.com/user-attachments/assets/14252431-df4a-4bb8-baec-dcc8a64bee23" />
+<img width="707" height="528" alt="image" src="https://github.com/user-attachments/assets/934e75d4-8898-48d3-b9f2-0902b261f3d3" />
+
 
 
 
